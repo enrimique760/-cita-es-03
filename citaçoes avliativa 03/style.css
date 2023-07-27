@@ -1,0 +1,74 @@
+
+body {
+    font-family: Arial, sans-serif;
+   background-image: url(https://images.hdqwalls.com/download/sun-desert-abstract-artwork-lg-1920x1080.jpg);
+   }
+  h1{
+    color: #ff9100;
+    text-shadow: 2px 2px 4px #f7e604;
+    text-align: center;
+    margin: 25 auto; 
+    
+  }  
+p{
+    color: #fc7d07;
+    text-align: center;
+}
+footer{
+    color: #e5e6eb;
+    text-align: center;
+}
+  form {
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 5px solid #f3aaaa;
+    border-radius: 15px;
+    background-color: #5c088d;
+  }
+  
+  label, input {
+    margin-bottom: 25px;
+  } 
+  
+   button {
+    padding: 10px 20px;
+    background-color: #8709b9;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #f76008;
+    margin-bottom: center;
+  } 
+  
+   #result {
+    margin-top: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: #fc0f07;
+    border-radius: 15px;
+    border: 5px solid #0632f5;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+   
+  } 
+  input[type="text"] {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid rgb(209, 18, 18);
+  }
+
+  #app{
+    padding-top: 15%;
+  }
+  
